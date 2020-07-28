@@ -1,3 +1,22 @@
 body {
     font-size: 16px;
 }
+
+header {
+    background-color: lightgray;
+    border-bottom: 3px solid red;
+}
+
+main{
+    background-color: lightgray;
+}
+
+footer{
+    background-color: lightgray;
+    color: aliceblue;
+
+}
+
+aside{
+    background-color: ivory;
+}

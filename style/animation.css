@@ -1,0 +1,13 @@
+@keyframes animation{
+    25% {background-color: lightgray}
+    50% {background-color: red}
+    72% {background-color: lightpink}
+    100% {background-color: lightgray}
+    
+}
+
+#pls {
+
+
+}
+
